@@ -1,0 +1,9 @@
+.sesskey
+venv
+*.json
+test.py
+.vercel
+*.log
+captions
+db
+__pycache__
