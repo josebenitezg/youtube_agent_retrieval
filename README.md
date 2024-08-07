@@ -1,4 +1,4 @@
-# YouTube Channel Content Analyzer with Source Attribution with Langchain and FastHTML
+# YouTube Channel Content Analyzer with Source Attribution using Langchain and FastHTML
 ### Still in development
 ## Overview
 
@@ -6,11 +6,9 @@ YouTube Channel Content Analyzer with Source Attribution
 
 ## Prerequisites
 
-Before running the application, ensure you have the following:
-
-- Python 3.x installed
-- Required Python packages (see Installation section)
-- Access to Google Cloud and OpenAI APIs
+```bash
+pip install -r requirements.txt
+```
 
 ## Export Environment Variables
 
