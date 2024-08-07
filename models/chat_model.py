@@ -1,11 +1,11 @@
 from agents.agent_retriever import HubeGPT
 from langchain_core.messages import AIMessageChunk
 
-PROVIDER = "anthropic"
-MODEL = "claude-3-5-sonnet-20240620"
+# PROVIDER = "anthropic"
+# MODEL = "claude-3-5-sonnet-20240620"
 
-# PROVIDER = "openai"
-# MODEL = "gpt-4o"
+PROVIDER = "openai"
+MODEL = "gpt-4o"
 
 hubegpt = HubeGPT(provider=PROVIDER, model=MODEL)
 
