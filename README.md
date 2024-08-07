@@ -1,4 +1,4 @@
-# YouTube Channel Content Analyzer using Source Attribution with Langchain and FastHTML
+# YouTube Channel Content Analyzer with Source Attribution using Langchain and FastHTML
 ### Still in development
 ## Overview
 
