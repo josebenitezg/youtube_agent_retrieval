@@ -47,8 +47,7 @@ Once the application is running, you can interact with it to ask science questio
 
 Model by default is set to Antrophic's Claude 3.5 sonnet
 
-You can change the model provider in the application by modifying the following lines in your code:
-
+You can change the model provider in the application by modifying the following lines in your code in `models/chat_model.py`
 
 ```python
 PROVIDER = "openai" # Change to your desired provider
